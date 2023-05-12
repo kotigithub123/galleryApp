@@ -1,0 +1,8 @@
+/* Write your code here. */
+
+.button {
+  cursor: pointer;
+  outline: none;
+  border: 0px transparent;
+  margin: 5px;
+}
